@@ -67,7 +67,7 @@ All project phases and documentation are organized in this GitHub repository.
 
 ## Demo Video Link
 
-The final demonstration video will be uploaded to Google Drive and the public/accessible link will be added here.
+https://drive.google.com/file/d/1Mt4vyWA2CJFldG1QupaanLzCekujfdDM/view?usp=drivesdk
 
 ## Conclusion
 
